@@ -1,0 +1,2 @@
+# Human Activity Recognition using Matrix Profile and Machine Learning
+ Developed a classification system to recognize human activities by extracting matrix profiles from motion time series data. Applied Euclidean-based distance profiling and trained both SVM and KNN models on the resulting features. Performed extensive preprocessing, hyperparameter tuning, and model evaluation, achieving robust performance across 19 activity classes.
